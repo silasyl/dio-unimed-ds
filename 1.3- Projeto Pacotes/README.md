@@ -40,4 +40,4 @@ transformation.resize_image(image, proportion)
 Silas Liu
 
 ## License
-[MIT](https://www.silasdata.com/)
+[Silas Data](https://www.silasdata.com/)
