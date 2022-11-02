@@ -18,3 +18,10 @@
 - Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil
 
 ## 2- Bancos de Dados SQL e NoSQL
+
+## 3- Imersão Cloud Computer
+
+## 4- Machine Learning
+
+### 4.1- Projeto:
+- Treinamento de Redes Neurais com Transfer Learning
