@@ -1,0 +1,3 @@
+[submodule "dio-live-dynamodb"]
+	path = dio-live-dynamodb
+	url = https://github.com/silasyl/dio-live-dynamodb.git
