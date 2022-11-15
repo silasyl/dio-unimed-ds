@@ -28,6 +28,9 @@
 ### 2.3- Projeto:
 - Construindo seu Primeiro Projeto Lógico de Banco de Dados
 
+### 2.4- Projeto:
+- Construa um Projeto Lógico de Banco de Dados do Zero
+
 ## 3- Imersão Cloud Computer
 
 ### 3.1- Projeto:
