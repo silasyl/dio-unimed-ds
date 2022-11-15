@@ -19,7 +19,22 @@
 
 ## 2- Bancos de Dados SQL e NoSQL
 
+### 2.1- Projeto:
+- Conceitual de BD - E-Commerce
+
+### 2.2- Projeto:
+- Construindo um Esquema Conceitual para Banco de Dados
+
+### 2.3- Projeto:
+- Construindo seu Primeiro Projeto Lógico de Banco de Dados
+
 ## 3- Imersão Cloud Computer
+
+### 3.1- Projeto:
+- dio-live-dynamodb: Boas práticas com DynamoDB
+
+### 3.2- Projeto:
+- dio-live-athena-master: Explorando Dados Demográficos com Serviços de Big Data na AWS
 
 ## 4- Machine Learning
 
